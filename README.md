@@ -1,9 +1,9 @@
 
-I’m NaZmul Hasan, passionate about solving real-world problems. I focus on learning daily, balancing physical work with virtual projects like mobile apps and investment platforms to create innovative solutions.
-- 🌱 I’m currently learning ... Flutter 
+- Hi I’m NaZmul Hasan,
+- 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on BINANCE
 - 📫 How to reach me @nazmulhasanovx
-- 😄 Pronouns: English/Bangla/Hindi
+- 😄 Language: English/Bangla/Hindi
 - ⚡ Fun fact: I am a murderer
 
 <!---
