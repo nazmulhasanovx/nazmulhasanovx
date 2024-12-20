@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="100%" src="ezgif.com-optimize.gif">
+<img align="center" alt="banner" width="100%" src="ezgif.com-optimize (1).gif">
 <p align="center">
   <a href="https://www.linkedin.com/in/nazmulhasanovx/">
     <img src="https://img.shields.io/twitter/follow/nazmulhasanovx?&label=safiussifat&logo=linkedin&logoColor=white&style=for-the-badge&color=grey" alt="Linkedin" />
