@@ -1,13 +1,13 @@
 <img align="center" alt="banner" width="100%" src="ezgif.com-optimize.gif">
 <p align="center">
-  <a href="https://www.linkedin.com/in/safius-sifat/">
-    <img src="https://img.shields.io/twitter/follow/safiussifat?&label=safiussifat&logo=linkedin&logoColor=white&style=for-the-badge&color=grey" alt="Linkedin" />
+  <a href="https://www.linkedin.com/in/nazmulhasanovx/">
+    <img src="https://img.shields.io/twitter/follow/nazmulhasanovx?&label=safiussifat&logo=linkedin&logoColor=white&style=for-the-badge&color=grey" alt="Linkedin" />
  </a>
-<a href="https://twitter.com/safiussifat">
-    <img src="https://img.shields.io/twitter/follow/safiussifat?label=%40safiussifat&style=for-the-badge&logo=Twitter&logoColor=white&labelColor=blue&color=blue" alt="Twitter" />
+<a href="https://twitter.com/nazmulhasanovx">
+    <img src="https://img.shields.io/twitter/follow/nazmulhasanovxt?label=%40safiussifat&style=for-the-badge&logo=Twitter&logoColor=white&labelColor=blue&color=blue" alt="Twitter" />
  </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SafiusSifat&label=Profile%20views&color=0e75b6&style=flat" alt="safius-sifat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmulhasanovx&label=Profile%20views&color=0e75b6&style=flat" alt="safius-sifat" /> </p>
 
 Hey there,
 
