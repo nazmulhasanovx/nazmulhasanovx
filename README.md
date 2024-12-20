@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/twitter/follow/nazmulhasanovxt?label=%40safiussifat&style=for-the-badge&logo=Twitter&logoColor=white&labelColor=blue&color=blue" alt="Twitter" />
  </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmulhasanovx&label=Profile%20views&color=0e75b6&style=flat" alt="safius-sifat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmulhasanovx&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulhasanov" /> </p>
 
 Hey there,
 
@@ -28,13 +28,13 @@ I'm NaZmul Hasan, a **Flutter** developer and 2nd year undergraduate Computer Sc
 <details>
   <summary>:zap: Most Used Languages</summary>
   
-| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safius-sifat&show_icons=true&locale=en&layout=compact&theme=city_lights" alt="safius-sifat" /></p>
+| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmulhasanovx&show_icons=true&locale=en&layout=compact&theme=city_lights" alt="nazmulhasanovx" /></p>
 | :---: |  
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safius-sifat&show_icons=true&locale=en&theme=city_lights" alt="safius-sifat" /></p> | <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=safius-sifat&theme=city_lights" alt="safius-sifat" /></p>
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazmulhasanovx_icons=true&locale=en&theme=city_lights" alt="nazmulhasanovx" /></p> | <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulhasanovx&theme=city_lights" alt="nazmulhasanovx" /></p>
 | :---: | :---: |
 </details>
