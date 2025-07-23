@@ -43,8 +43,8 @@
 - 🧠 **F**** Generator** – Web3 digital tool  
 - 💻 **REMIX IDE x F**** Generator** – Custom smart contract toolkit  
 - 📦 **B**** Money Manager** – Upcoming financial management app  
-- 🌐 **BinGi** – Personal profile ecosystem (In Development)
-- 🔐 **TakaPay (TK) – [A BNB Smart Chain tokenized asset representing Bangladeshi Taka.](https://t.me/nazmulhasanovx)
+- 🌐 **[BinGi]** – Personal profile ecosystem (In Development) (https://bingi.app)
+- 🔐 **[TakaPay] (TK) – A BNB Smart Chain tokenized asset representing Bangladeshi Taka.(https://tk.neonecy.com)
 ### 📊 GitHub Stats
 
 <p align="center">
